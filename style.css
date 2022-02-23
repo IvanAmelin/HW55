@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Fortuna Gothic FlorishC';
+    src: local('Fortuna Gothic FlorishC'), local('Fortuna-Gothic-FlorishC'), 
+    url('HW5fonts/fortunagothic/Fortuna\ Gothic\ FlorishC.woff') format('woff'),
+    url('HW5fonts/fortunagothic/Fortuna\ Gothic\ FlorishC.woff2') format('woff2'),
+    url('hw5fonts/fortunagothic/Fortuna\ Gothic\ FlorishC.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Amerika Pro';
+    src: local('Amerika Pro'), 
+    url('HW5fonts/amerpro/amerikapro.woff2') format('woff2'), 
+    url('HW5fonts/amerpro/amerikapro.woff') format('woff'), 
+    url('HW5fonts/amerpro/amerikapro.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+h1 {
+    font-family: 'Fortuna Gothic FlorishC';
+}
+
+h2 {
+    font-family: 'Amerika Pro';
+}
+
+.one {
+    font-family: 'Amerika Pro';
+}
+.two {
+    font-family: 'Fortuna Gothic FlorishC';
+}
+.three {
+    font-family: 'Fortuna Gothic FlorishC';
+    font-weight: 900;
+}
+.four {
+    font-family: 'Amerika Pro';
+    font-weight: 900;
+}

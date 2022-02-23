@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Fortuna Gothic FlorishC';
+  src: local('Fortuna Gothic FlorishC'), local('Fortuna-Gothic-FlorishC'), 
+  url(./Fortuna+Gothic+FlorishC.woff) format('woff'),
+  url(./Fortuna+Gothic+FlorishC.woff2) format('woff2');
+  url(./Fortuna+Gothic+FlorishC.woff2) format('truetype');
+}
